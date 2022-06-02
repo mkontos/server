@@ -80,175 +80,6 @@
       "id": 6
     }
   ],
-  "vinculaciones": [
-    {
-      "id": 1,
-      "id_backend": "7f906f6f-5528-4451-aba4-89ea2e2346ef",
-      "serialControlador": "ABC00077788822268989",
-      "serialCooler": "ABC123",
-      "serialActivo": "XYZ789"
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "00000000000000000000",
-      "serialActivo": "00000000000000000000",
-      "id": 2
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "11111111111111111111",
-      "serialCooler": "11111111111111111111",
-      "serialActivo": "11111111111111111111",
-      "id": 3
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "22222222222222222222",
-      "serialCooler": "22222222222222222222",
-      "serialActivo": "22222222222222222222",
-      "id": 4
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "11111111111111111111",
-      "serialActivo": "22222222222222222222",
-      "id": 5
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "22222222222222222222",
-      "serialActivo": "11111111111111111111",
-      "id": 6
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "22222222222222222222",
-      "serialCooler": "11111111111111111111",
-      "serialActivo": "00000000000000000000",
-      "id": 7
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "00000000000000000000",
-      "serialActivo": "00000000000000000000",
-      "id": 8
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "11111111111111111111",
-      "serialCooler": "22222222222222222222",
-      "serialActivo": "00000000000000000000",
-      "id": 9
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "11111111111111111111",
-      "serialCooler": "22222222222222222222",
-      "serialActivo": "00000000000000000000",
-      "id": 10
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "11111111111111111111",
-      "serialActivo": "22222222222222222222",
-      "id": 11
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "11111111111111111111",
-      "serialCooler": "11111111111111111111",
-      "serialActivo": "11111111111111111111",
-      "id": 12
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "11111111111111111111",
-      "serialActivo": "22222222222222222222",
-      "id": 13
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "11111111111111111111",
-      "serialActivo": "11111111111111111111",
-      "id": 14
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "11111111111111111111",
-      "serialActivo": "22222222222222222222",
-      "id": 15
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "11111111111111111111",
-      "serialActivo": "11111111111111111111",
-      "id": 16
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "00000000000000000000",
-      "serialActivo": "00000000000000000000",
-      "id": 17
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "00000000000000000000",
-      "serialActivo": "00000000000000000000",
-      "id": 18
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "00000000000000000000",
-      "serialActivo": "00000000000000000000",
-      "id": 19
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "00000000000000000000",
-      "serialActivo": "00000000000000000000",
-      "id": 20
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "00000000000000000000",
-      "serialActivo": "11111111111111111111",
-      "id": 21
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "00000000000000000000",
-      "serialActivo": "11111111111111111111",
-      "id": 22
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "1",
-      "id": 23
-    },
-    {
-      "id_backend": "0000-0000-0000-0000-0000-0000",
-      "serialControlador": "00000000000000000000",
-      "serialCooler": "00000000000000000000",
-      "serialActivo": "00000000000000000000",
-      "id": 24
-    }
-  ],
   "posts": [
     {
       "id": 14,
@@ -287,6 +118,88 @@
     }
   ],
   "vinculacionesActivas": [
+    {
+      "id": 1,
+      "id_backend": "7f906f6f-5528-4451-aba4-89ea2e2346ef",
+      "serialControlador": "00000000000000000000",
+      "serialCooler": "AAAAAAAAAAAAAAAAAAAA",
+      "serialActivo": "ZZZZZZZZZZZZZZZZZZZZ",
+      "datosActivo": [
+        {
+          "modelo": "MT-08",
+          "marca": "corona",
+          "estado": "vinculacion_ok",
+          "fecha": "31/5/2022 - 15:0:6",
+          "responsable": "Don Armando Barreda"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "id_backend": "4g806f6f-3328-5551-aba4-87ea2e3246ef",
+      "serialControlador": "11111111111111111111",
+      "serialCooler": "BBBBBBBBBBBBBBBBBBBB",
+      "serialActivo": "X0X0X0X0X0X0X0X0X0X0",
+      "datosActivo": [
+        {
+          "modelo": "MT-15",
+          "marca": "brahma",
+          "estado": "vinculacion_ok",
+          "fecha": "19/5/2022 - 19:45:47",
+          "responsable": "Esteban Quito"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "id_backend": "7f906f6f-5528-4451-aba4-89ea2e2346ef",
+      "serialControlador": "22222222222222222222",
+      "serialCooler": "CCCCCCCCCCCCCCCCCCCC",
+      "serialActivo": "QQQQQQQQQQQQQQQQQQQQ",
+      "datosActivo": [
+        {
+          "modelo": "MT-01",
+          "marca": "imperial",
+          "estado": "vinculacion_ok",
+          "fecha": "31/5/2022 - 15:0:6",
+          "responsable": "Arturo Villa"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "id_backend": "7f906f6f-5528-4451-aba4-89ea2e2346ef",
+      "serialControlador": "33333333333333333333",
+      "serialCooler": "DDDDDDDDDDDDDDDDDDDD",
+      "serialActivo": "YYYYYYYYYYYYYYYYYYYY",
+      "datosActivo": [
+        {
+          "modelo": "MT-07",
+          "marca": "andes",
+          "estado": "vinculacion_ok",
+          "fecha": "31/5/2022 - 15:0:6",
+          "responsable": "Meren Guito"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "id_backend": "7f906f6f-5528-4451-aba4-89ea2e2346ef",
+      "serialControlador": "44444444444444444444",
+      "serialCooler": "EEEEEEEEEEEEEEEEEEEE",
+      "serialActivo": "SSSSSSSSSSSSSSSSSSSS",
+      "datosActivo": [
+        {
+          "modelo": "MT-25",
+          "marca": "vikinga",
+          "estado": "vinculacion_ok",
+          "fecha": "31/5/2022 - 15:0:6",
+          "responsable": "Sara Saraza"
+        }
+      ]
+    }
+  ],
+  "productos": [
     {
       "id": 1,
       "id_backend": "7f906f6f-5528-4451-aba4-89ea2e2346ef",
