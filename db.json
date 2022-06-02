@@ -292,22 +292,14 @@
       "id_backend": "7f906f6f-5528-4451-aba4-89ea2e2346ef",
       "serialControlador": "00000000000000000000",
       "serialCooler": "AAAAAAAAAAAAAAAAAAAA",
-      "serialActivo": "Z1Z1ZZ1Z1ZZ1Z1ZZ1Z1Z",
+      "serialActivo": "ZZZZZZZZZZZZZZZZZZZZ",
       "datosActivo": [
         {
           "modelo": "MT-08",
           "marca": "corona",
-          "estado": "OB-OK",
+          "estado": "vinculacion_ok",
           "fecha": "31/5/2022 - 15:0:6",
           "responsable": "Don Armando Barreda"
-        }
-      ],
-      "reporteDeFalla": [
-        {
-          "errorControlador": false,
-          "errorEtiquetas": false,
-          "errorOtro": true,
-          "errorMensaje": "123"
         }
       ]
     },
@@ -316,22 +308,62 @@
       "id_backend": "4g806f6f-3328-5551-aba4-87ea2e3246ef",
       "serialControlador": "11111111111111111111",
       "serialCooler": "BBBBBBBBBBBBBBBBBBBB",
-      "serialActivo": "X0X0XX0X0XX0X0XX0X0X",
+      "serialActivo": "X0X0X0X0X0X0X0X0X0X0",
       "datosActivo": [
         {
           "modelo": "MT-15",
           "marca": "brahma",
-          "estado": "desvinculado",
+          "estado": "vinculacion_ok",
           "fecha": "19/5/2022 - 19:45:47",
           "responsable": "Esteban Quito"
         }
-      ],
-      "reporteDeFalla": [
+      ]
+    },
+    {
+      "id": 3,
+      "id_backend": "7f906f6f-5528-4451-aba4-89ea2e2346ef",
+      "serialControlador": "22222222222222222222",
+      "serialCooler": "CCCCCCCCCCCCCCCCCCCC",
+      "serialActivo": "QQQQQQQQQQQQQQQQQQQQ",
+      "datosActivo": [
         {
-          "errorControlador": false,
-          "errorEtiquetas": false,
-          "errorOtro": true,
-          "errorMensaje": "Solo es una prueba"
+          "modelo": "MT-01",
+          "marca": "imperial",
+          "estado": "vinculacion_ok",
+          "fecha": "31/5/2022 - 15:0:6",
+          "responsable": "Arturo Villa"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "id_backend": "7f906f6f-5528-4451-aba4-89ea2e2346ef",
+      "serialControlador": "33333333333333333333",
+      "serialCooler": "DDDDDDDDDDDDDDDDDDDD",
+      "serialActivo": "YYYYYYYYYYYYYYYYYYYY",
+      "datosActivo": [
+        {
+          "modelo": "MT-07",
+          "marca": "andes",
+          "estado": "vinculacion_ok",
+          "fecha": "31/5/2022 - 15:0:6",
+          "responsable": "Meren Guito"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "id_backend": "7f906f6f-5528-4451-aba4-89ea2e2346ef",
+      "serialControlador": "44444444444444444444",
+      "serialCooler": "EEEEEEEEEEEEEEEEEEEE",
+      "serialActivo": "SSSSSSSSSSSSSSSSSSSS",
+      "datosActivo": [
+        {
+          "modelo": "MT-25",
+          "marca": "vikinga",
+          "estado": "vinculacion_ok",
+          "fecha": "31/5/2022 - 15:0:6",
+          "responsable": "Sara Saraza"
         }
       ]
     }
